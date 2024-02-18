@@ -53,5 +53,9 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 
 ---
 
-We're excited to embark on this journey with you. Together, let's make managing your finances a breeze with WalletWatch! If you have any questions or feedback, don't hesitate to reach out. Happy budgeting! 🎉
+We're excited to embark on this journey with you. 
+Together, let's make managing your finances a breeze with WalletWatch! 
+If you have any questions or feedback, don't hesitate to reach out.
+
+Happy budgeting! 🎉
 
